@@ -27,6 +27,12 @@ p, h1, h2, h3, ol {
     }
 }
 
+@media screen and (max-width: 992px) {
+    a.nav-link {
+        padding-left: 5px;
+    }
+}
+
 .section h2 {
     text-align: center;
 }
